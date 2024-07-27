@@ -101,8 +101,3 @@ We welcome contributions to enhance the functionality and performance of the Inv
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any inquiries or feedback, please reach out to Indrajit Barman by email or LinkedIn:
-- Email: indrajitbarman2003@gmail.com
-- LinkedIn: [Indrajit Barman](https://www.linkedin.com/in/indrajit-barman-276486227/)
